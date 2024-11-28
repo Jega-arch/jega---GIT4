@@ -1,1 +1,4 @@
 Ozzie is the workflow manager used in our project.
+oozie will schedule jobs in lower and UAT environment in our project exactly.
+Hdfs dfs -mkdir /user/cloudera/hive_sample
+hdfs dfs -put sample1.txt /user/cloudera/hive_sampple
