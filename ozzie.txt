@@ -1,1 +1,3 @@
 Ozzie is the workflow manager used in our project.
+oozie will schedule jobs in lower and UAT environment in our project exactly.
+Hdfs dfs -mkdir
